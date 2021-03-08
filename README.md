@@ -6,6 +6,7 @@
 
 ## Introduction
 - Simple ToDoList app
+- This code was developed for my education.
 
 ## Development Environment
 - Android Studio
