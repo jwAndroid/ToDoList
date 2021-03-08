@@ -10,6 +10,7 @@
 ## Development Environment
 - Android Studio
 - JAVA
+- SQlite
 
 ## Application Version
 - minSdkVersion : 21
@@ -17,6 +18,3 @@
 
 ## APIs
 - NONE
-
-## Database
-- Base on SQlite
